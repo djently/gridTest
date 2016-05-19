@@ -1,0 +1,5 @@
+.gt-cell__piece {
+	display: inline-block;
+	height: 10px;
+	content: ' ';
+}
