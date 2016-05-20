@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "bin": {
     "webpack": "node_modules/.bin/webpack",
-    "webpack-dev-server": "node_modules/.bin/webpack-dev-server",
+    "webpack-dev-server": "node_modules/.bin/webpack-dev-server"
   },
   "scripts": {
     "start": "webpack-dev-server",
